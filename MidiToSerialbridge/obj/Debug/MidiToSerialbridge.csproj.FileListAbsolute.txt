@@ -1,0 +1,12 @@
+C:\Users\DHL\source\repos\MidiToSerialbridge\MidiToSerialbridge\bin\Debug\MidiToSerialbridge.exe.config
+C:\Users\DHL\source\repos\MidiToSerialbridge\MidiToSerialbridge\bin\Debug\MidiToSerialbridge.exe
+C:\Users\DHL\source\repos\MidiToSerialbridge\MidiToSerialbridge\bin\Debug\MidiToSerialbridge.pdb
+C:\Users\DHL\source\repos\MidiToSerialbridge\MidiToSerialbridge\bin\Debug\Melanchall.DryWetMidi.dll
+C:\Users\DHL\source\repos\MidiToSerialbridge\MidiToSerialbridge\bin\Debug\Melanchall.DryWetMidi.xml
+C:\Users\DHL\source\repos\MidiToSerialbridge\MidiToSerialbridge\obj\Debug\MidiToSerialbridge.csprojAssemblyReference.cache
+C:\Users\DHL\source\repos\MidiToSerialbridge\MidiToSerialbridge\obj\Debug\MidiToSerialbridge.Form1.resources
+C:\Users\DHL\source\repos\MidiToSerialbridge\MidiToSerialbridge\obj\Debug\MidiToSerialbridge.Properties.Resources.resources
+C:\Users\DHL\source\repos\MidiToSerialbridge\MidiToSerialbridge\obj\Debug\MidiToSerialbridge.csproj.GenerateResource.cache
+C:\Users\DHL\source\repos\MidiToSerialbridge\MidiToSerialbridge\obj\Debug\MidiToSerialbridge.csproj.CopyComplete
+C:\Users\DHL\source\repos\MidiToSerialbridge\MidiToSerialbridge\obj\Debug\MidiToSerialbridge.exe
+C:\Users\DHL\source\repos\MidiToSerialbridge\MidiToSerialbridge\obj\Debug\MidiToSerialbridge.pdb
